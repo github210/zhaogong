@@ -12,7 +12,7 @@ import com.tenstep.R;
 /**
  * Created by Administrator on 2016-1-11 0011.
  */
-public class HomeFragment extends Fragment  {
+public class HomeFragment extends Fragment       {
    // private WebView webView;
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
