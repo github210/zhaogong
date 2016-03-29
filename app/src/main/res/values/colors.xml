@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="beiwo_color">#f19b2b</color>
+    <color name="black_gray">#929292</color>
+    <color name="color_text_selected">#e96c3d</color>
+    <color name="color_text_normal">#929292</color>
+
+</resources>
